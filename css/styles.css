@@ -42,6 +42,11 @@ body.active {
   font-size: 0.9em;
   margin: 0;
 }
+.no-js #experience-timeline > div ul {
+  color: #74808a;
+  font-size: 0.9em;
+  margin: 0;
+}
 .no-js #experience-timeline:before,
 .no-js #experience-timeline:after {
   content: none;
@@ -481,6 +486,12 @@ footer {
   margin: 0 0 15px 0;
 }
 .project-info p {
+  color: #74808a;
+  margin: 0 0 15px 0;
+  font-size: 0.9em;
+  text-align: left;
+}
+.project-info ul {
   color: #74808a;
   margin: 0 0 15px 0;
   font-size: 0.9em;
